@@ -1,3 +1,5 @@
+# Graphql Server 연습
+
 # Graphql
 Graphql에서는 아래와 같이 한 쿼리에 여러 정보를 받을 수 있다. 그래서 under-query와 over-query인 경우를 줄일 수 있다.
 ```Graphql
